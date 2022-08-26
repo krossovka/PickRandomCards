@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickRandomCards", "PickRandomCards\PickRandomCards.csproj", "{3F1B66FC-40D8-4660-B462-FBD696A6D4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACardUI", "PickACardUI\PickACardUI.csproj", "{ACAE2B93-D068-4E60-BFAD-620906276DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1B66FC-40D8-4660-B462-FBD696A6D4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1B66FC-40D8-4660-B462-FBD696A6D4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1B66FC-40D8-4660-B462-FBD696A6D4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1B66FC-40D8-4660-B462-FBD696A6D4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAE2B93-D068-4E60-BFAD-620906276DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAE2B93-D068-4E60-BFAD-620906276DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAE2B93-D068-4E60-BFAD-620906276DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAE2B93-D068-4E60-BFAD-620906276DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5054FCDF-E629-41B0-90E9-E4051316024F}
+	EndGlobalSection
+EndGlobal
